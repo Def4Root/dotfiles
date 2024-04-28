@@ -1,0 +1,45 @@
+{
+	"name": "basalt",
+	"displayName": "Basalt",
+	"description": "A very simple pink-blue color theme",
+	"icon": "icon.png",
+	"version": "1.2.0",
+	"publisher": "RustingRobot",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RustingRobot/basalt-theme"
+	},
+	"keywords": [
+		"theme",
+		"dark theme",
+		"basalt",
+		"basalt theme",
+		"rusting robot"
+	],
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Basalt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Basalt-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3291e46d-d357-47f5-8957-3cc1f0312352",
+		"publisherId": "18e335ac-34c0-47e9-8af6-2e1af9e75f0e",
+		"publisherDisplayName": "RustingRobot",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1711251172534,
+		"pinned": false
+	}
+}

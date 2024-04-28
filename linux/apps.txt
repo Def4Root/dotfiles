@@ -1,0 +1,2 @@
+OS: GNU/Linux Ubuntu 22.04.4 LTS
+Installed: rust, go, python, exa, bat, nvim, typewritten, git

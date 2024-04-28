@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	email = def4root@proton.me
+	name = def4root
+[core]
+	editor = nvim
